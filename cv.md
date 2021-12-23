@@ -17,9 +17,8 @@ I believe that learning a new specialty will open up new opportunities for me!
 
 ## My qualities of character:
 1. Quick learning
-2. Sociability
-3. Responsibility
-4. Ability to work in a team
+2. Responsibility
+3. Ability to work in a team
    
 ****************************
 ## Skills
