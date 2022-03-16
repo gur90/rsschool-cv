@@ -20,7 +20,7 @@ I believe that learning a new specialty will open up new opportunities for me! I
 * Git, GitHub
 ***************************
 ## Code example
-"Disemvowel Trolls" from CODEWARS
+Kata "Disemvowel Trolls" from CODEWARS
 ```
 function disemvowel(str) {
   let result = str.replace(/[aeiouAEIOU]/gi, '');
