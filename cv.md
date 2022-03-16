@@ -18,8 +18,9 @@ I believe that learning a new specialty will open up new opportunities for me! I
 * CSS
 * JavaScript (foundation)
 * Git, GitHub
+
 ***************************
-## Code example:
+## Code example
 "Disemvowel Trolls" from CODEWARS
 ```
 function disemvowel(str) {
